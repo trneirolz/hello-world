@@ -1,3 +1,3 @@
 # hello-world
 My very first repository
-It's coolest repositiry in my life! I want edit it all the time!
+It's coolest repository in my life! I want edit it all the time!
